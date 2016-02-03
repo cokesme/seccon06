@@ -1,5 +1,5 @@
 # umisama/seccon06
-This application was used as Task.6 at SECCON2015 Final(international).
+This application was used as Task.6 at SECCON2015 Finals(international).
 
 # how to use
 
