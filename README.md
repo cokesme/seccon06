@@ -1,4 +1,4 @@
-# umisama/seccon06
+# Find the Image
 This application was used as Task.6 at SECCON2015 Finals(international).
 
 # how to use
